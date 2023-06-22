@@ -133,9 +133,6 @@ body {
   display: flex;
   flex-wrap: wrap;
 }
-.container .container-inner .right .tab .skills-inner .frontend {
-  margin-left: 40px;
-}
 .container .container-inner .left,
 .container .container-inner .right {
   height: 100%;
